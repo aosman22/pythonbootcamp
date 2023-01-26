@@ -3,7 +3,7 @@
 
 myset = set()
 print(myset) # This is an empty set.
-myset.add(1) # add() method adds an element instead of appened()
+myset.add(1) # add() method adds an element instead of append()
 print(myset) # The element '1' was added. Notice, curly braces makes it look like a dictionary but there no key-value pairs.
 myset.add(2) 
 print(myset) 
